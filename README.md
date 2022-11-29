@@ -1,4 +1,4 @@
-<h2>Atividade AULA 19 - Introdução a Arquitetura MVC - (Model-View-Controller).</h2>
+<h2>Introdução a Arquitetura MVC - (Model-View-Controller).</h2>
 
 <h3>Tópicos</h3>
 <ul>
